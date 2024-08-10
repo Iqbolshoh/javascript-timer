@@ -4,7 +4,7 @@
 
 ### Desktop
 
-![Desktop Preview](./images/banner.png)
+![Desktop Preview](./images/desktop.png)
 
 ### Mobile
 
