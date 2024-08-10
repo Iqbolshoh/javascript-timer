@@ -40,14 +40,6 @@ This is a simple countdown timer built using HTML, CSS, and JavaScript. The time
 
 4. The timer will start at 5 minutes. You can pause and resume using the "Pause" and "Play" buttons.
 
-## Project Structure
-
-- `index.html`: The main HTML file.
-- `styles.css`: The CSS file for styling the timer.
-- `script.js`: The JavaScript file that controls the timer functionality.
-- `images/banner.png`: The banner image for the project.
-- `images/mobile.png`: A screenshot showing the timer on a mobile device.
-
 ## Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
