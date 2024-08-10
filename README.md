@@ -48,7 +48,7 @@ This is a simple countdown timer built using HTML, CSS, and JavaScript. The time
 - `images/banner.png`: The banner image for the project.
 - `images/mobile.png`: A screenshot showing the timer on a mobile device.
 
-## Technologies
+## Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white"
