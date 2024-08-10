@@ -10,6 +10,14 @@ This is a simple countdown timer built using HTML, CSS, and JavaScript. The time
 - **Play/Pause Functionality**: The timer can be paused and resumed at any time.
 - **Alert Notification**: An alert is displayed when the timer reaches zero.
 
+## Screenshots
+
+### Desktop View
+![Desktop View](./images/banner.png)
+
+### Mobile View
+![Mobile View](./images/mobile.png)
+
 ## How to Use
 
 1. Clone the repository:
@@ -49,14 +57,6 @@ This is a simple countdown timer built using HTML, CSS, and JavaScript. The time
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
         alt="JavaScript">
 </div>
-
-## Screenshots
-
-### Desktop View
-![Desktop View](./images/banner.png)
-
-### Mobile View
-![Mobile View](./images/mobile.png)
 
 ## Connect with Me
 
