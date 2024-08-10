@@ -1,6 +1,14 @@
 # JavaScript Timer
 
-![Banner](./images/banner.png)
+## Preview
+
+### Desktop
+
+![Desktop Preview](./images/banner.png)
+
+### Mobile
+
+![Mobile Preview](./images/mobile.png)
 
 This is a simple countdown timer built using HTML, CSS, and JavaScript. The timer starts from a preset time (5 minutes in this case) and counts down to zero. The user can pause and resume the countdown as needed.
 
@@ -9,14 +17,6 @@ This is a simple countdown timer built using HTML, CSS, and JavaScript. The time
 - **Responsive Design**: The timer adjusts to different screen sizes.
 - **Play/Pause Functionality**: The timer can be paused and resumed at any time.
 - **Alert Notification**: An alert is displayed when the timer reaches zero.
-
-## Screenshots
-
-### Desktop View
-![Desktop View](./images/banner.png)
-
-### Mobile View
-![Mobile View](./images/mobile.png)
 
 ## How to Use
 
@@ -61,7 +61,6 @@ This is a simple countdown timer built using HTML, CSS, and JavaScript. The time
 ## Contributing
 
 Feel free to submit pull requests or open issues if you have suggestions for improvements or encounter any problems.
-
 
 ## Connect with Me
 
